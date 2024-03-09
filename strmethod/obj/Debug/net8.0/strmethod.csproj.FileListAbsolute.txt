@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\bin\Debug\net8.0\strmethod.exe
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\bin\Debug\net8.0\strmethod.deps.json
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\bin\Debug\net8.0\strmethod.runtimeconfig.json
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\bin\Debug\net8.0\strmethod.dll
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\bin\Debug\net8.0\strmethod.pdb
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\obj\Debug\net8.0\strmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\obj\Debug\net8.0\strmethod.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\obj\Debug\net8.0\strmethod.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\obj\Debug\net8.0\strmethod.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\obj\Debug\net8.0\strmethod.dll
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\obj\Debug\net8.0\refint\strmethod.dll
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\obj\Debug\net8.0\strmethod.pdb
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\obj\Debug\net8.0\strmethod.genruntimeconfig.cache
+C:\Users\User\OneDrive\İş masası\String Methods\strmethod\strmethod\obj\Debug\net8.0\ref\strmethod.dll
